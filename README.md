@@ -1,7 +1,9 @@
 # MemeGAN数据集
 ## 详细
-MemeData-2020 是一个包含3584张图片的表情包数据集，每张图片包含14个标注，
+MemeData-2020 是一个包含512个样本的表情包数据集，每个样本包含14个标注，其中每个样本包含一张全局图片和6张局部图片。
 ## 样本图片
+熊猫头 ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+蘑菇头
 ## 验证集
 ## 授权声明
 ## 引用说明
