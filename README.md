@@ -20,7 +20,5 @@ MemeData-2020 是一个包含512个样本的表情包数据集，每个样本包
 [MemeGAN-2020](https://github.com/fesfa/MemeGAN/blob/main/MemeData-2020.rar)
 ## 验证集下载
 [MemeGAN-2020-eval](https://github.com/fesfa/MemeGAN/blob/main/MemeGAN-2020-eval.rar)
-## 授权声明
-## 引用说明
 ## 联系我们
 更多请联系 Bin Li 和 Xiao Rui Li 咨询数据集
