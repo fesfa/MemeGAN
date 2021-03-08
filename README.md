@@ -16,10 +16,10 @@ MemeData-2020 是一个包含512个样本的表情包数据集，每个样本包
 &emsp;&emsp;&emsp;&emsp;头型&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;脸型&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;上半身  
 ![Image text](https://github.com/fesfa/MemeGAN/blob/main/images/453_downbody.jpg)  ![Image text](https://github.com/fesfa/MemeGAN/blob/main/images/453_lefthand.jpg)  ![Image text](https://github.com/fesfa/MemeGAN/blob/main/images/453_righthand.jpg)  
 &emsp;&emsp;&emsp;&emsp;下半身&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;左手&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;右手     
-## 下载
+## 训练集下载
 [MemeGAN-2020](https://github.com/fesfa/MemeGAN/blob/main/MemeData-2020.rar)
-## 验证集
-
+## 验证集下载
+[MemeGAN-2020-eval](https://github.com/fesfa/MemeGAN/blob/main/MemeGAN-2020-eval.rar)
 ## 授权声明
 ## 引用说明
 ## 联系我们
